@@ -12,7 +12,7 @@ GUI of **An Intelligent Toolbox for Identifying Urban Functional Zone**, which i
  ![](https://youtu.be/FZLEjUOS45I)
 [![Watch the video](https://www.youtube.com/watch?v=FZLEjUOS45I/maxresdefault.jpg)](https://www.youtube.com/watch?v=FZLEjUOS45I)
 
-
+<div><video controls src="https://user-images.githubusercontent.com/20723919/120432939-99194880-c3b5-11eb-8eea-f4aa424d479f.MP4" muted="false"></video></div>
 
  ![](videos/GUI.mp4)
 <video controls>
