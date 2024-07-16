@@ -9,7 +9,7 @@ Note: The app and codes we developed, data, and trained models will be released 
 
 GUI of **An Intelligent Toolbox for Identifying Urban Functional Zone**, which is developed based on the proposed G2MF.
 
- !['1'](images/test.mp4)
+ ![](https://youtu.be/FZLEjUOS45I)
 
 Geographical location of study areas
   
