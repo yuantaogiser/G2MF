@@ -9,7 +9,7 @@ Note: The app and codes we developed, data, and trained models will be released 
 
 GUI of **An Intelligent Toolbox for Identifying Urban Functional Zone**, which is developed based on the proposed G2MF.
 
-<div><video controls src="https://github.com/yuantaogiser/G2MF/issues/3#issue-2410187528.mp4" muted="false"></video></div>
+<div><video controls src="https://private-user-images.githubusercontent.com/114664167/348940923-6ea1b97d-fe3e-4380-825a-d95229f401e0.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjExMDQ5MTAsIm5iZiI6MTcyMTEwNDYxMCwicGF0aCI6Ii8xMTQ2NjQxNjcvMzQ4OTQwOTIzLTZlYTFiOTdkLWZlM2UtNDM4MC04MjVhLWQ5NTIyOWY0MDFlMC5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxNlQwNDM2NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZTgyMGI3MjUyOTBlYThhNzE1YTQyOTE1M2FkYmQzMDFiYjViOGM3NmNhYTA3ZTZjOGMxNDE2MDhhY2I0NWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.LtQEqf4BFKv9ucbE89qPwRbWp9iJZYQr_nkq6eBY6V8" muted="false"></video></div>
 
  ![](videos/GUI.mp4)
 
