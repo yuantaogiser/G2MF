@@ -14,7 +14,7 @@ GUI of **An Intelligent Toolbox for Identifying Urban Functional Zone**, which i
 
  ![](videos/GUI.mp4)
 <video controls>
-  <source src="videos/GUI.mp4" type="video/mp4">
+  <source src="[videos/GUI.mp4](https://www.youtube.com/watch?v=FZLEjUOS45I)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
