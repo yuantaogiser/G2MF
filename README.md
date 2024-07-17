@@ -76,7 +76,7 @@ Please cite the following paper if you find it useful for your research:
 ```
 @article{tao2024g2mf,
   title={A graph-based multi-modal data fusion framework for identifying urban functional zone},
-  author={Yuan Tao, Wanzeng Liu, Jun Chen, Jingxiang Gao, Ran Li, Jiaxin Ren, Shunxi Yin, Xiuli Zhu, Xinpeng Wang, Tingting Zhao, Xi Zhai, Ye Zhang, and Yunlu Peng},
+  author={Yuan Tao, Wanzeng Liu, Jun Chen, Jingxiang Gao, Ran Li, Xinpeng Wang, Ye Zhang, Jiaxin Ren, Shunxi Yin, Xiuli Zhu, Tingting Zhao, Xi Zhai, and Yunlu Peng},
   year={2024}
 }
 ```
