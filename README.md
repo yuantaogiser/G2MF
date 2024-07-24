@@ -55,6 +55,10 @@ $ python train.py --data_dir /Path/To/DATASET/
 - **Nanjing-Hefei:** Visualization of UFZ inference results with geographically isolated areas (Nanjing and Hefei).
 ![](images/Nanjing-Hefei.jpg)
 
+<div  align="center">
+<img src="images/Nanjing-Hefei.jpg", width=700>
+</div>
+
 - **Visualization for comparison with different algorithms:** Comparison of details of functional areas identified by different methods in Beijing (Chaoyang District, Haidian District), Shanghai, Nanjing and Hefei.
 ![](images/VisualizationComparisonAlgorithm.jpg)
 
