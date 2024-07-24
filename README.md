@@ -67,7 +67,6 @@ $ python train.py --data_dir /Path/To/DATASET/
 
 ### 5. Sensitivity Analysis of G2MF <a name="discussion"></a>
 - **The impact of deep learning models and graph structures on the proposed framework.**
-![](images/FrameworkSensitivity.jpg)
 
 <div  align="center">
 <img src="images/FrameworkSensitivity.jpg", width=550>
