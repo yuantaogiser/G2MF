@@ -69,6 +69,10 @@ $ python train.py --data_dir /Path/To/DATASET/
 - **The impact of deep learning models and graph structures on the proposed framework.**
 ![](images/FrameworkSensitivity.jpg)
 
+<div  align="center">
+<img src="images/FrameworkSensitivity.jpg", width=550>
+</div>
+
 ### 6. Paper <a name="paper"></a>
 **[A graph-based multi-modal data fusion framework for identifying urban functional zone]()**
 
