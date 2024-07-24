@@ -53,8 +53,6 @@ $ python train.py --data_dir /Path/To/DATASET/
 ![](images/Beijing-Shanghai.jpg)
 
 - **Nanjing-Hefei:** Visualization of UFZ inference results with geographically isolated areas (Nanjing and Hefei).
-![](images/Nanjing-Hefei.jpg)
-
 <div  align="center">
 <img src="images/Nanjing-Hefei.jpg", width=700>
 </div>
