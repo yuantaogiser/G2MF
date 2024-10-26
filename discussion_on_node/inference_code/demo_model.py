@@ -50,7 +50,6 @@ class MMGIN(torch.nn.Module):
     def forward(self, x, edge_index_x, batch_x, y, edge_index_y, batch_y):
         for conv, batch_norm in zip(self.convs_block, self.batch_norms_block):
             x = F.relu(batch_norm(conv(x, edge_index_x)))
-            # x = F.dropout(x, p=0.5, training=self.training)
         x = global_add_pool(x, batch_x)
         x = F.relu(self.batch_norm1(self.lin1(x)))
         x = F.dropout(x, p=0.5, training=self.training)
@@ -58,7 +57,6 @@ class MMGIN(torch.nn.Module):
 
         for conv, batch_norm in zip(self.convs_poi, self.batch_norms_poi):
             y = F.relu(batch_norm(conv(y, edge_index_y)))
-            # y = F.dropout(y, p=0.5, training=self.training)
         y = global_add_pool(y, batch_y)
         y = F.relu(self.batch_norm1(self.lin1(y)))
         y = F.dropout(y, p=0.5, training=self.training)
@@ -102,7 +100,6 @@ class GIN(torch.nn.Module):
     def forward(self, x, edge_index, batch):
         for conv, batch_norm in zip(self.convs, self.batch_norms):
             x = F.relu(batch_norm(conv(x, edge_index)))
-            x = F.dropout(x, p=0.5, training=self.training)
         x = global_add_pool(x, batch)
         # x = scatter_add(x, batch, dim=0)
         x = F.relu(self.batch_norm1(self.lin1(x)))
