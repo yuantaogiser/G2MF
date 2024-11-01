@@ -38,7 +38,8 @@ Geographical location of study areas
 - Run APP:
 ```
 $ cd G2MF-main/app
-$ python run.py
+$ pip install -r requirements.txt
+$ python main_async_elite.py
 ```
 
 ### 3. Training G2MF <a name="G2MF"></a>
