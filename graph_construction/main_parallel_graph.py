@@ -279,7 +279,6 @@ if __name__=="__main__":
 
             '''筛选block list的可用block'''
             target_sematic_map_tmp = gpd.clip(gpd_sematic_map, target_block)
-            target_sematic_map = target_sematic_map_tmp[target_sematic_map_tmp['value']==1]
             target_instance = target_sematic_map.explode(index_parts=True).reset_index(drop=True)
 
             # 过滤掉面积小于15平米的实例
