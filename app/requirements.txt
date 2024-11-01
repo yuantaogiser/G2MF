@@ -1,0 +1,11 @@
+branca
+folium
+geopandas
+matplotlib
+pandas
+plotly
+PyQt5
+PyQtWebEngine
+Shapely
+torch
+torch_geometric
