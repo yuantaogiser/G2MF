@@ -1,0 +1,5 @@
+arcpy
+geopandas
+joblib
+pandas
+python=3.9
