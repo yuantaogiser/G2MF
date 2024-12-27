@@ -95,7 +95,8 @@ if __name__ == '__main__':
         data_list.append([path_workspace, path_database_name, path_osm_road, path_administrative, path_output_folder, shpfile])
 
     # parallel body
-    Parallel(n_jobs=multiprocessing.cpu_count(), backend='multiprocessing')(delayed(parallel_body)(data) for data in data_list)
-
-    for data in data_list:
-        parallel_body(data)
+    core_num = multiprocessing.cpu_count()
+    pool = multiprocessing.Pool(processes=core_num)
+    pool.map_async(parallel_body, data_list).get()
+    pool.close()
+    pool.join()
