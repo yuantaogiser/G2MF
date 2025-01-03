@@ -82,13 +82,17 @@ Please cite the following paper if you find it useful for your research:
 ```
 @article{tao2024g2mf,
   title={A graph-based multimodal data fusion framework for identifying urban functional zone},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
   author={Yuan Tao, Wanzeng Liu, Jun Chen, Jingxiang Gao, Ran Li, Xinpeng Wang, Ye Zhang, Jiaxin Ren, Shunxi Yin, Xiuli Zhu, Tingting Zhao, Xi Zhai, and Yunlu Peng},
   year={2024}
+  doi = {https://doi.org/10.1016/j.jag.2024.104353},
+  url = {https://www.sciencedirect.com/science/article/pii/S1569843224007118}
 }
 ```
 
 ### 7. Outlook <a name="outlook"></a>
-We are trying to produce national-scale UFZs, click **stars** to continue following.
+Based on the proposed G2MF method, the 2020 China urban function zone (CUFZ-2020) dataset was produced, and the latest China urban function zones are in production. Please note that the national-scale function zone dataset produced has added **"Industrial zone"**.
+Click **stars** to continue following.
 
 ### 8. License <a name="license"></a>
 This repo is distributed under [GLPv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html). The code can be used for academic purposes only.
