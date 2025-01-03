@@ -5,7 +5,7 @@
     
 This is the official PyTorch implementation of the paper **[A graph-based multimodal data fusion framework for identifying urban functional zone](https://www.sciencedirect.com/science/article/pii/S1569843224007118)**.
 
-Note: The app and codes we developed, data, and trained models will be released upon acceptance of the paper.
+Note: The app and codes we developed, data, and trained models coming soon...
 
 GUI of **An Intelligent Toolbox for Identifying Urban Functional Zone**, which is developed based on the proposed G2MF.
 
