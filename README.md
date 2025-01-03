@@ -81,10 +81,12 @@ $ python train.py --data_dir /Path/To/DATASET/
 Please cite the following paper if you find it useful for your research:
 ```
 @article{tao2024g2mf,
-  title={A graph-based multimodal data fusion framework for identifying urban functional zone},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
-  author={Yuan Tao, Wanzeng Liu, Jun Chen, Jingxiang Gao, Ran Li, Xinpeng Wang, Ye Zhang, Jiaxin Ren, Shunxi Yin, Xiuli Zhu, Tingting Zhao, Xi Zhai, and Yunlu Peng},
-  year={2024}
+  title = {A graph-based multimodal data fusion framework for identifying urban functional zone},
+  journal = {International Journal of Applied Earth Observation and Geoinformation},
+  author = {Yuan Tao, Wanzeng Liu, Jun Chen, Jingxiang Gao, Ran Li, Xinpeng Wang, Ye Zhang, Jiaxin Ren, Shunxi Yin, Xiuli Zhu, Tingting Zhao, Xi Zhai, and Yunlu Peng},
+  year = {2025}
+  volume = {136},
+  pages = {104353},
   doi = {https://doi.org/10.1016/j.jag.2024.104353},
   url = {https://www.sciencedirect.com/science/article/pii/S1569843224007118}
 }
