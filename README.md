@@ -94,7 +94,7 @@ Please cite the following paper if you find it useful for your research:
 
 ### 7. Outlook <a name="outlook"></a>
 Based on the proposed G2MF method, the 2020 China urban function zone (CUFZ-2020) dataset was produced, and the latest China urban function zones are in production. Please note that the national-scale function zone dataset produced has added **"Industrial zone"**.
-Click **stars** to continue following.
+Click **stars** to continue following. If you have any question, email me at yuantao@cumt.edu.cn
 
 ### 8. License <a name="license"></a>
 This repo is distributed under [GLPv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html). The code can be used for academic purposes only.
