@@ -1,9 +1,9 @@
-<h1 align="center">A graph-based multi-modal data fusion framework for identifying urban functional zone</h1>
+<h1 align="center">A graph-based multimodal data fusion framework for identifying urban functional zone</h1>
 
 
 ![](images/Flowchart.jpg)
     
-This is the official PyTorch implementation of the paper **[A graph-based multi-modal data fusion framework for identifying urban functional zone]()**.
+This is the official PyTorch implementation of the paper **[A graph-based multimodal data fusion framework for identifying urban functional zone](https://www.sciencedirect.com/science/article/pii/S1569843224007118)**.
 
 Note: The app and codes we developed, data, and trained models will be released upon acceptance of the paper.
 
@@ -76,12 +76,12 @@ $ python train.py --data_dir /Path/To/DATASET/
 </div>
 
 ### 6. Paper <a name="paper"></a>
-**[A graph-based multi-modal data fusion framework for identifying urban functional zone]()**
+**[A graph-based multimodal data fusion framework for identifying urban functional zone](https://www.sciencedirect.com/science/article/pii/S1569843224007118)**
 
 Please cite the following paper if you find it useful for your research:
 ```
 @article{tao2024g2mf,
-  title={A graph-based multi-modal data fusion framework for identifying urban functional zone},
+  title={A graph-based multimodal data fusion framework for identifying urban functional zone},
   author={Yuan Tao, Wanzeng Liu, Jun Chen, Jingxiang Gao, Ran Li, Xinpeng Wang, Ye Zhang, Jiaxin Ren, Shunxi Yin, Xiuli Zhu, Tingting Zhao, Xi Zhai, and Yunlu Peng},
   year={2024}
 }
