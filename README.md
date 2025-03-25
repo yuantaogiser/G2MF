@@ -2,7 +2,10 @@
 
 
 ![](images/Flowchart.jpg)
-    
+
+### :fire: Updates
+* **[2025.3.25]** 声明：本人正在准备毕业论文，请大家耐心等待
+
 This is the official PyTorch implementation of the paper **[A graph-based multimodal data fusion framework for identifying urban functional zone](https://www.sciencedirect.com/science/article/pii/S1569843224007118)**.
 
 Note: The app and codes we developed, data, and trained models coming soon...
