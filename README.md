@@ -4,6 +4,7 @@
 ![](images/Flowchart.jpg)
 
 ### :fire: Updates
+* **[2025.7.13]** 正在准备更新基于视觉的功能区识别代码~~
 * **[2025.3.25]** 声明：本人正在准备毕业论文，请大家耐心等待
 
 This is the official PyTorch implementation of the paper **[A graph-based multimodal data fusion framework for identifying urban functional zone](https://www.sciencedirect.com/science/article/pii/S1569843224007118)**.
@@ -97,7 +98,7 @@ Please cite the following paper if you find it useful for your research:
 
 ### 7. Outlook <a name="outlook"></a>
 Based on the proposed G2MF method, the 2020 China urban function zone (CUFZ-2020) dataset was produced, and the latest China urban function zones are in production. Please note that the national-scale function zone dataset produced has added **"Industrial zone"**.
-Click **stars** to continue following. If you have any questions or requests, email me at yuantao@cumt.edu.cn
+Click **stars** to continue following. If you have any questions or requests, email me at ~~yuantao@cumt.edu.cn~~ taoyuan@aust.edu.cn 
 
 ### 8. License <a name="license"></a>
 This repo is distributed under [GLPv3 License](https://www.gnu.org/licenses/gpl-3.0.en.html). The code can be used for academic purposes only.
