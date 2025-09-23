@@ -5,7 +5,6 @@
 
 ### :fire: Updates
 * **[2025.7.13]** 正在准备更新基于视觉的功能区识别代码~~
-* **[2025.3.25]** 声明：本人正在准备毕业论文，请大家耐心等待
 
 This is the official PyTorch implementation of the paper **[A graph-based multimodal data fusion framework for identifying urban functional zone](https://www.sciencedirect.com/science/article/pii/S1569843224007118)**.
 
